@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, mi name is Karol, and i am currently Higher degree in Computer Systems Administration, and in my free time at home i study programming
 
 <!--
 **KarolGB/KarolGB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
