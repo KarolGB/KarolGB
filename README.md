@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**KarolGB/KarolGB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi, I'm Karol
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Student of ASIR (Administration of Computer Systems in Network)**  
+**Programming enthusiast**
+
+I'm a systems administration student with a strong passion for programming and automation.  
+
+I enjoy building scripts, tools, and applications.
+
+---
+
+## 🚀 About Me
+
+- Native Language: **Spanish**
+- Focused on **systems, automation, and development**
+- Constantly learning new technologies
+- Comfortable working in **Linux & Windows environments**
+
+---
